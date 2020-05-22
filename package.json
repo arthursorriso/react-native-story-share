@@ -1,6 +1,6 @@
 {
-  "name": "react-native-story-share",
-  "version": "0.4.1",
+  "name": "react-native-instastory-share",
+  "version": "0.1.1",
   "description": "share your images to instagram",
   "main": "index.js",
   "scripts": {
@@ -28,5 +28,13 @@
     "eslint-plugin-prettier": "^3.0.0",
     "eslint-plugin-react": "^7.11.1",
     "prettier": "^1.15.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthursorriso/react-native-story-share.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arthursorriso/react-native-story-share/issues"
+  },
+  "homepage": "https://github.com/arthursorriso/react-native-story-share#readme"
 }
